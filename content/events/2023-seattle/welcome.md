@@ -1,7 +1,13 @@
 +++
 Title = "devopsdays seattle 2023"
 Type = "welcome"
-aliases = ["/events/2023-seattle/"]
+aliases = [
+    "/events/2023-seattle/",
+    "/events/2023-seattle/location/",
+    "/events/2023-seattle/propose/",
+    "/events/2023-seattle/registration/",
+    "/events/2023-seattle/sponsor/"
+]
 Description = "devopsdays seattle 2023"
 +++
 
