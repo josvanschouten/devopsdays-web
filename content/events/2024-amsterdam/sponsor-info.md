@@ -13,7 +13,7 @@ description = "Sponsor information for devopsdays Amsterdam 2024!"
     
     We can accept payments via bank transfer (preferred) or credit card (fees are to be paid by you). All sponsors must make payments within 30 days to avoid the cancellation of the contract. Sponsorship is not confirmed until payment is received, and as such, no sponsor benefits will be available until complete payment (logo on website, ticket redemption codes, etc.
     
-- ********************************************When do I need to pay?********************************************
+- **When do I need to pay?**
     
     If the event is more than 30 days away, the payment terms are NET30, from the date mentioned on the
     invoice. If the event is less than 30 days away, the payment terms are NET15, from the date mentioned on
